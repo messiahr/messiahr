@@ -1,5 +1,7 @@
 ## Hello!
 
+I'm currently working on modeling radiation-included lymphopenia at the TECBio REU at Pitt!
+
 <!--
 **messiahr/messiahr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
