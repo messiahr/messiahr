@@ -1,6 +1,6 @@
 ## Hello!
 
-I'm currently working on modeling radiation-included lymphopenia at the TECBio REU at Pitt!
+I'm currently working on modeling radiation-included lymphopenia with the Faeder Lab at Pitt, and doing bioinformatics to study circadian rhythm with the Kadener Lab at Brandeis!
 
 <!--
 **messiahr/messiahr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
